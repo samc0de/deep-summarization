@@ -11,6 +11,8 @@ __pycache__/
 
 # Raw and extracted files
 raw_data/foods.txt
+# Change this if necessary in future.
+raw_data/**
 
 
 
